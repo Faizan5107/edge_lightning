@@ -1,5 +1,7 @@
 import 'package:flutter/services.dart';
 
+
+///Main Service
 class EdgeLighting {
   static const MethodChannel _channel = MethodChannel('edge_lighting');
 
